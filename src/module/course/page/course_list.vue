@@ -50,13 +50,13 @@
         total: 0,
         courses: [
           {
-            id:'test01',
-            name:'test01',
+            id:'297e7c7c62b888f00162b8a965510001',
+            name:'test_java基础',
             pic:''
           },
           {
             id:'test02',
-            name:'Hello World',
+            name:'test02',
             pic:''
           }
           ],
