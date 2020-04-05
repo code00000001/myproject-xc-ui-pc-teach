@@ -56,7 +56,7 @@
           },
           {
             id:'test02',
-            name:'test02',
+            name:'Hello World',
             pic:''
           }
           ],
